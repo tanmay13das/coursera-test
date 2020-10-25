@@ -194,7 +194,7 @@ h3.menu-item-title {
     margin-right: 15%;
     float: right;
     width: 95%;
-    height: 1000px;
+    max-height: 1000px;
     margin: 10px;
     background-color: grey;
     text-align: center;
@@ -226,6 +226,7 @@ h2{
     margin: 10px;
     background-color: grey;
     text-align: center;
+    max-height: 1000px;
   }
 
   .stretch {
@@ -398,7 +399,7 @@ h2{
     width: 90%;
     margin-left: 9%;
     padding: 10px;
-    height: 1000px;
+    max-height: 3000px;
     background-color: grey;
     text-align: center;
   }
